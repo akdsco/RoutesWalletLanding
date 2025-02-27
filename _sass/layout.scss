@@ -3,7 +3,7 @@
 	background: 
 		linear-gradient(
 		rgba($image-overlay-color, $image-overlay-transparency), 
-		rgba($image-overlay-color, $image-overlay-transparency)
+		rgba(#1a1a28, $image-overlay-transparency)
 		   ),
 		
 		url($header-image);
